@@ -1,0 +1,26 @@
+{
+  "dependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "api-app-engine",
+  "version": "1.0.0",
+  "description": "api deploy in app-engine google",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortegac/api-app-engine.git"
+  },
+  "keywords": [
+    "API",
+    "EXPRESSjs",
+    "NODEjs",
+    "APP-ENGINE"
+  ],
+  "author": "Manuel Ortega <mortega@apgca.cl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mortegac/api-app-engine/issues"
+  },
+  "homepage": "https://github.com/mortegac/api-app-engine#readme"
+}
